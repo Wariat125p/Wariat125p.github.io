@@ -1,0 +1,136 @@
+
+
+.maintheme{
+	position:relative;
+	width:55%;
+	height:80%;
+}
+
+.face_photo {
+	position: absolute;
+	top:20%;
+	right:30%;
+	width:15%;
+	height:45%;
+}
+
+
+.github {
+	width:1.5%;
+	height:2%;
+
+
+}
+
+.linkedin {
+	right:28%;
+	width:1.5%;
+	height:2%;
+
+}
+
+.name {
+	position:absolute;
+	top:10%;
+	left:25%;
+	color:red;
+	font-size:1.4vw;
+
+}
+
+.sekcja1 {
+	position:relative;
+}
+
+.div1 {
+	position:relative;
+}
+
+body {
+	text-align:center;
+	background-color:grey;
+	padding:20px;
+}
+
+.description {
+	position:absolute;
+	top:15%;
+	left:25%;
+	color:white;
+	font-size:1.1vw;
+}
+
+.knowledge {
+	position:absolute;
+	top:18%;
+	left:25%;
+	color:white;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	background: grey;
+	width: 100%;
+}
+
+.mid-section {
+	text-align:center;
+}
+
+.row {
+	text-align:absolute;
+	margin: 8px - 16px;
+}
+
+.column {
+	position:relative;
+	width: 25%;
+	left:25%;
+}
+
+.content {
+	padding: 10px;
+}
+/*
+
+.row1 {
+	position:relative;
+	text-align:center;
+}
+
+
+.row2 {
+	position:relative;
+	text-align:center;
+
+}
+
+.project1 {
+	position:absolute;
+	left:30%;
+	top:60px;
+
+}
+
+.project2 {
+	position:absolute;
+	right:30%;
+	top:60px
+
+}
+
+.project3 {
+	position:absolute;
+	left:30%;
+	top:240px;
+}
+
+.project4 {
+	position:absolute;
+	right:30%;
+	top:240px;
+}
+
+
+*/ 
